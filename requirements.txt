@@ -13,6 +13,6 @@ incremental==17.5.0
 PyHamcrest==1.9.0
 pytz==2018.5
 six==1.11.0
-Twisted==20.3.0
+Twisted==22.2.0
 txaio==18.8.1
 zope.interface==4.5.0
